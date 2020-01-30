@@ -8,7 +8,7 @@
 
 <?php include("includes/nav.php");?>
 
-<?php include("includes/home.php");?>
+<?php include("includes/editor.php");?>
 
 <?php include("includes/footer.php");?>
 
